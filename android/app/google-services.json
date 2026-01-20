@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698621463397",
+    "project_id": "uas-pemmob-af7ac",
+    "storage_bucket": "uas-pemmob-af7ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698621463397:android:7d067c9b965b801823ef8c",
+        "android_client_info": {
+          "package_name": "com.example.uas_pemmob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-4425XkEzBYIHn_bd8UrdQlBBZucictM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
